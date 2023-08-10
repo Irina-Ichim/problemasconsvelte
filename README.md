@@ -1,4 +1,4 @@
-# Mi Proyecto Svelte
+# Proyecto Svelte y Problemas que me encontré 
 
 Este es un proyecto sencillo en Svelte. El propósito de este proyecto es proporcionar instrucciones claras sobre cómo iniciar un proyecto Svelte y ejecutarlo en tu máquina local.
 
